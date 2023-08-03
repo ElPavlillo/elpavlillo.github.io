@@ -24,4 +24,4 @@ Tengo casi **3 años** de experiencia en consultoría con **contacto directo con
 
 En mis anteriores trabajos he estado involucrado en proyectos que van desde, la creación de una **web para la gestión integral del proceso de tasación**, hasta **servicios de sincronización de datos** entre diferentes plataformas.
 
-En lo personal me considero una persona **trabajadora**, **colaborativa**, con **muchas ganas de seguir aprendiendo** y que disfruta mucho de lo que hace. [Aquí](/repositories/) os dejo los diferentes proyectos personales en los que voy trabajando, actualmente paso más tiempo en [LittleAPIStresser](https://github.com/ElPavlillo/LittleAPIStresser/) un proyecto el cual quiero usar para testear mis APIS ante ataques de DDOS.
+En lo personal me considero una persona **trabajadora**, **colaborativa**, con **muchas ganas de seguir aprendiendo** y que disfruta mucho de lo que hace. [Aquí](/repositories/) os dejo los diferentes **proyectos personales** en los que voy trabajando, actualmente paso más tiempo en [LittleAPIStresser](https://github.com/ElPavlillo/LittleAPIStresser/) un proyecto el cual quiero usar para **testear mis APIS ante ataques de DDOS**.
