@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Acontinuación están los diferentes proyectos activos que tengo en GitHub.
+description: A continuación están los diferentes proyectos activos que tengo en GitHub.
 nav: true
 nav_order: 3
 ---
