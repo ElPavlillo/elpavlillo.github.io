@@ -2,6 +2,7 @@ github_users:
   - ElPavlillo
 
 github_repos:
+  - ElPavlillo/LittleAPIStresser
   - ElPavlillo/StringEscapists
   - ElPavlillo/YouTubePopUp
   - ElPavlillo/zmk-config-corneview
