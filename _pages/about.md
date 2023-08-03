@@ -20,8 +20,8 @@ Primero de todo! **Muchas gracias** por pasarte por aquí!
 
 Mi nombre es **Pablo Sánchez** y soy **técnico superior en Desarrollo de Aplicaciones Multiplataforma** con la titulación cursada en [Joyfe](https://fpjoyfe.iepgroup.es/).
 
+Tengo casi **3 años** de experiencia en consultoría con **contacto directo con el cliente** y experiencia en tecnologías como `C#`, `.Net`, `Sql Server`, `Angular`, `JS` y de integración con múltiples servicios web como puede ser `sms`, `google maps`, `crashlytics`, etc.
 
+En mis anteriores trabajos he estado involucrado en proyectos que van desde, la creación de una **web para la gestión integral del proceso de tasación**, hasta **servicios de sincronización de datos** entre diferentes plataformas.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+En lo personal me considero una persona **trabajadora**, **colaborativa**, con **muchas ganas de seguir aprendiendo** y que disfruta mucho de lo que hace. [Aquí](/repositories/) os dejo los diferentes proyectos personales en los que voy trabajando, actualmente paso más tiempo en [LittleAPIStresser](https://github.com/ElPavlillo/LittleAPIStresser/) un proyecto el cual quiero usar para testear mis APIS ante ataques de DDOS.
