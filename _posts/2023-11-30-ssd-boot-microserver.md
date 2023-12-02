@@ -6,7 +6,7 @@ description: Como hacer boot desde ssd en un HP Microserver Gen8
 tags: microserver ssd boot
 categories: servers
 thumbnail: assets/img/boot_ssd/microserver.png
-featured: true
+featured: false
 ---
 
 El HP Microserver Gen8 es un servidor muy competente por el precio que tiene actualmente (en concreto si le cambias la CPU que tiene de stock y le pones la máxima cantidad de RAM), tanto si lo quieres para montar un NAS como un servidor de virtualización, ahora, dicho esto, tiene un fallo de diseño que os puede volver un poco locos como a mi.
