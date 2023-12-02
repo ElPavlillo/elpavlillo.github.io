@@ -2,6 +2,14 @@
 layout: default
 ---
 <!-- _layouts/cv.html -->
+<script>
+  if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
+    // true for mobile device
+    window.location.href = '../assets/pdf/curriculumNoPhone.pdf'
+  }
+</script>
+<!-- <meta http-equiv="refresh" content="0; URL=../assets/pdf/curriculumNoPhone.pdf" /> -->
+
 <div class="post">
 
 	<object data="../assets/pdf/curriculumNoPhone.pdf" width="750" height="1000" type='application/pdf'></object>
