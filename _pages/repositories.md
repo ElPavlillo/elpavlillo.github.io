@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositorios
 description: A continuación están los diferentes proyectos activos que tengo en GitHub.
 nav: true
 nav_order: 3
 ---
 
-## GitHub users
+## Usuario GitHub
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -33,7 +33,7 @@ nav_order: 3
 {% endif %}
 {% endif %}
 
-## GitHub Repositories
+## Repositorios GitHub
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <strong>Previamente en:</strong> <a href="https://atos.net/es/spain" target="_blank" rel="noopener noreferrer">ATOS</a>, <a href="https://www.evotec.es/" target="_blank" rel="noopener noreferrer">Evotec</a>   •  Con ganas de seguir aprendiendo
 
