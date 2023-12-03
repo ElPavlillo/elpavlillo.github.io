@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Boot desde el ssd instalado en la baia ODD del HP Microserver Gen8
+title:  Boot desde el ssd instalado en la bahía ODD del HP Microserver Gen8
 date: 2023-11-30 15:01:00
 description: Como hacer boot desde ssd en un HP Microserver Gen8
 tags: microserver ssd boot
