@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>Previamente en:</strong> <a href="https://atos.net/es/spain" target="_blank" rel="noopener noreferrer">ATOS</a>, <a href="https://www.evotec.es/" target="_blank" rel="noopener noreferrer">Evotec</a>   •  Con ganas de seguir aprendiendo
+subtitle: <strong>Actualmente en:</strong> <a href="https://agap2.com/spain/" target="_blank" rel="noopener noreferrer">agap2</a> • Para administración pública<br><strong>Previamente en:</strong> <a href="https://atos.net/es/spain" target="_blank" rel="noopener noreferrer">ATOS</a>, <a href="https://www.evotec.es/" target="_blank" rel="noopener noreferrer">Evotec</a>   •  Con ganas de seguir aprendiendo
 
 profile:
   align: right

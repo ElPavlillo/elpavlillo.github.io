@@ -352,6 +352,7 @@ jekyll-diagrams:
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
+livereload: true
 
 enable_google_analytics:    false  # enables google analytics
 enable_cronitor_analytics: false  # enables cronitor RUM analytics
