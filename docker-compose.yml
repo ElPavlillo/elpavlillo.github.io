@@ -4,6 +4,8 @@ services:
   jekyll:
     image: amirpourmand/al-folio
     ports:
-      - 8080:8080
+      - "8080:8080"
+      - "35729:35729"
+      - "4000:4000"
     volumes:
       - .:/srv/jekyll

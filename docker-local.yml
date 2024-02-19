@@ -5,6 +5,8 @@ services:
     build: .
     image: al-folio-local-docker
     ports:
-      - 8080:8080
+      - "8080:8080"
+      - "35729:35729"
+      - "4000:4000"
     volumes:
       - .:/srv/jekyll
